@@ -6,17 +6,15 @@ Projet de formation réalisé en équipe avec Scrum, en HTML et Tailwind CSS ave
 
 ## Liens
 
-- Site en ligne : https://PSEUDO.github.io/jardin-partage/ (à compléter après la première publication)
-- Tableau GitHub Projects : (à compléter)
-- Version livrée : `v0.1.0` (à compléter à la livraison)
+- Site en ligne : https://github.com/romain-crete/jardin-partage
+- Tableau GitHub Projects : https://github.com/users/romain-crete/projects/4
+- Version livrée : `v0.1.0`
 
 ## L'équipe
 
 | Membre | Compte GitHub | Responsabilités                     |
 | ------ | ------------- | ----------------------------------- |
-| Prénom | @pseudo       | Developer, Scrum Master du sprint 1 |
-| Prénom | @pseudo       | Developer, Scrum Master du sprint 2 |
-| Prénom | @pseudo       | Product Owner                       |
+| Romain | romain-crete  | Developer, Scrum Master du sprint 1 |
 
 ## Installation
 
@@ -24,7 +22,7 @@ Prérequis : Node.js 24 (version LTS), Git, VS Code (extensions recommandées pr
 
 ```powershell
 cd C:\dev
-git clone https://github.com/PSEUDO/jardin-partage.git
+git clone https://github.com/romain-crete/jardin-partage.git
 cd jardin-partage
 npm install
 ```
